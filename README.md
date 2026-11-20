@@ -1,10 +1,10 @@
 # America: No Peace Beyond the Line + America Expansion Pack
 
-[Download / Скачать](https://github.com/NoProblemDess/America-No-Peace-Beyond-the-Line/releases/tag/public-beta-5.1-20261103)
+[Download / Скачать](https://github.com/NoProblemDess/America-No-Peace-Beyond-the-Line/releases/tag/public-beta-5.2-20261120)
 
 ## English
 
-**Public Beta 5.1**
+**Public Beta 5.2**
 
 The game and its expansion have been adapted for Windows 10/11. Some engine bugs that caused crashes and save file corruption have been fixed.
 
@@ -14,7 +14,7 @@ English, German, Spanish and French localizations are available, along with four
 
 ## Русский
 
-**Публичная бета-версия №5.1**
+**Публичная бета-версия №5.2**
 
 Адаптация игры и дополнения для Windows 10/11. Исправлены некоторые ошибки движка, приводившие к вылетам игры и повреждению сохранений.
 
